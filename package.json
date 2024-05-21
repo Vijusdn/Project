@@ -1,0 +1,19 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "main": "",
+  "scripts": {
+    "start": "node index.js",
+    "test":"nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  },
+  "devDependencies": {
+    "package": "^1.0.1",
+    "package.json": "^2.0.1"
+  }
+}
